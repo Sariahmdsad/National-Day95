@@ -1,0 +1,271 @@
+/*#15412A*/
+body{
+   /* background: #8D44AF;*/
+   background-image: url("s.jpg");
+   background-size: cover;
+   background-repeat: no-repeat;
+   background-position: center;
+   background-attachment: fixed;
+    animation: infinite 5s sari;
+}
+#blok{
+    display: grid;
+    background: rgb(21, 65, 42,0.90);
+    grid-template-columns: auto;
+    gap: 20px;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+#b1,#b3,#b4,#b5{
+color: silver;
+background: ;
+padding: 10px;
+margin: 8px;
+ text-align: center;
+
+}
+
+#b1:hover{
+    
+    background: rgb(7, 138, 70);
+    
+
+}
+#b3:hover{
+     background: rgb(7, 138, 70);
+}
+#b4:hover{
+     background: rgb(7, 138, 70);
+}
+#b5:hover{
+     background: rgb(7, 138, 70);
+}
+#title{
+    display: flex;
+   background: rgb(21, 65, 42,0.90);
+    padding: 30px;
+    justify-content: center;
+}
+#b2{
+color: silver;
+background: ;
+
+}
+#b2:hover{
+background:  rgb(7, 138, 70);
+
+}
+#title2{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    background:  rgb(21, 65, 42,0.90);;
+}
+#blok2{
+    display: grid;
+    background: rgb(21, 65, 42,0.90);
+    grid-template-columns: auto;
+    gap: 20px;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+#p1,#p2,#p3,#p4{
+    text-align: center;
+    padding: 10px;
+    color: silver;
+
+}
+#p1:hover{
+background:  rgb(7, 138, 70);
+
+}
+#p2:hover{
+background:  rgb(7, 138, 70);
+
+}
+#p3:hover{
+background:  rgb(7, 138, 70);
+
+}
+#p4:hover{
+background:  rgb(7, 138, 70);
+
+}
+#T:hover{
+    background: rgb(7, 138, 70);
+
+
+}
+#T{
+    color: silver;
+}
+#P1:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P2:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P3:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P4:hover{
+background:  rgb(7, 138, 70);
+
+}
+#T2:hover{
+    background: rgb(7, 138, 70);
+
+
+}
+#T2{
+    color: silver;
+}
+#title3{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    background:  rgb(21, 65, 42,0.90);;
+}
+#blok3{
+    display: grid;
+    background: rgb(21, 65, 42,0.90);
+    grid-template-columns: auto;
+    gap: 20px;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+#P1,#P2,#P3,#P4{
+    text-align: center;
+    padding: 10px;
+    color: silver;
+
+}
+#T3{
+    color: silver;
+}
+#title4{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    background:  rgb(21, 65, 42,0.90);;
+}
+#blok4{
+    display: grid;
+    background: rgb(21, 65, 42,0.90);
+    grid-template-columns: auto;
+    gap: 20px;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+#P11,#P22,#P33,#P44{
+    text-align: center;
+    padding: 10px;
+    color: silver;
+
+}
+#P11:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P22:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P33:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P44:hover{
+background:  rgb(7, 138, 70);
+
+}
+#T3:hover{
+    background: rgb(7, 138, 70);
+
+
+}
+#T4{
+    color: silver;
+}
+#title5{
+    display: flex;
+    justify-content: center;
+    margin-top: 40px;
+    background:  rgb(21, 65, 42,0.90);;
+}
+#blok5{
+    display: grid;
+    background: rgb(21, 65, 42,0.90);
+    grid-template-columns: auto;
+    gap: 20px;
+
+    padding: 20px;
+    margin-top: 30px;
+}
+#P15,#P26,#P37,#P48{
+    text-align: center;
+    padding: 10px;
+    color: silver;
+
+}
+#P11:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P22:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P33:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P44:hover{
+background:  rgb(7, 138, 70);
+
+}
+#T3:hover{
+    background: rgb(7, 138, 70);
+
+
+}
+#p4:hover{
+background:  rgb(7, 138, 70);
+
+}
+#T:hover{
+    background: rgb(7, 138, 70);
+
+
+}
+#T{
+    color: silver;
+}
+#P15:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P26:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P37:hover{
+background:  rgb(7, 138, 70);
+
+}
+#P48:hover{
+background:  rgb(7, 138, 70);
+
+}
+#T4:hover{
+    background: rgb(7, 138, 70);
+
+
+}
